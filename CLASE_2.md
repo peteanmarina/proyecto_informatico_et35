@@ -41,7 +41,7 @@ distinguir al menos siete tipos diferentes:
 #### Acta de constitución del proyecto
 
 Para el PMBOK la salida de este proceso es el acta con toda la información
-preliminar del proyecto
+preliminar del proyecto.
 Algunas cosas que suelen aparecer por escrito al iniciar un proyecto son:
 * El propósito o justificación del proyecto
 * Los objetivos y requisitos
